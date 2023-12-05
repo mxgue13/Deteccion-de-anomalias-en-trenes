@@ -2,7 +2,7 @@
 
 # Autores = Jose Miguel Pardo Díaz, Juan Sebastian Suárez, Andrey Felipe Leguizamo. 
 
-![BannerProyecto]
+![BannerProyecto.png]
 
 **Objetivo: Desarrollar un modelo preciso y confiable que utilice datos de trenes para detectar anomalías en trenes .**
 
