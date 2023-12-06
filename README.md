@@ -11,7 +11,7 @@
 - Metodos usados: GaussianNaiveBayes, DecisionTreeClassifier, RandomForestClassifier, SupportVectorMachine, Aprendizaje no supervisado(PCA), Deep Learning(Redes neuronales).
 
 **Enlaces:**
-- Enlace del video: 
+- Enlace del video: https://www.youtube.com/watch?v=sBlEP5bvc5A
 - Enlace del notebook: https://colab.research.google.com/drive/1Yewl6icbc_QhlTnMn2EaaJfSqye1M6cT?usp=sharing
 - Enlace del repositorio: https://github.com/mxgue13/Deteccion-de-anomalias-en-trenes
 - Diapositivas: [DiapositivasIA.pdf](https://github.com/mxgue13/Deteccion-de-anomalias-en-trenes/blob/main/Diapositivas.pdf)
