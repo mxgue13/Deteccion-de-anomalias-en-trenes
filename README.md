@@ -8,7 +8,7 @@
 
 - Dataset: En este repositorio ([https://www.kaggle.com/datasets/anshtanwar/metro-train-dataset]).
 
-- Metodos usados: GaussianNaiveBayes, DecisionTreeClassifier, RandomForestClassifier, SupportVectorMachine, DecisionTreeRegressor, RandomForestRegressor, SupportVectorRegression, Aprendizaje no supervisado(PCA), Deep Learning(Redes neuronales).
+- Metodos usados: GaussianNaiveBayes, DecisionTreeClassifier, RandomForestClassifier, SupportVectorMachine, Aprendizaje no supervisado(PCA), Deep Learning(Redes neuronales).
 
 **Enlaces:**
 - Enlace del video: 
