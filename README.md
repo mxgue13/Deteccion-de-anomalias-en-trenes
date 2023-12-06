@@ -1,6 +1,6 @@
 # Deteccion-de-anomalias-en-trenes
 
-**Autores: Jose Miguel Pardo Díaz, Juan Sebastian Suárez, Andrey Felipe Leguizamo. 
+**Autores: Jose Miguel Pardo Díaz, Juan Sebastian Suárez, Andrey Felipe Leguizamo.**
 
 ![BannerProyecto](https://github.com/mxgue13/Deteccion-de-anomalias-en-trenes/blob/main/BannerProyecto.png)
 
