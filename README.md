@@ -4,7 +4,7 @@
 
 ![BannerProyecto](https://github.com/mxgue13/Deteccion-de-anomalias-en-trenes/blob/main/BannerProyecto.png)
 
-**Objetivo: Desarrollar un modelo preciso y confiable que utilice datos de trenes para detectar anomalías en trenes .**
+**Objetivo: Crear un modelo preciso y confiable que emplee información ferroviaria para identificar irregularidades en la operación de trenes.**
 
 - Dataset: En este repositorio ([https://www.kaggle.com/datasets/anshtanwar/metro-train-dataset]).
 
